@@ -1,4 +1,4 @@
-# QFieldNatura – Acquisition de données naturalistes sur le terrain avec QField 🌿
+# QFieldNatura – Acquisition de données naturalistes sur le terrain avec QField 🌍
 
 QFieldNatura est un projet QGIS, conçu pour faciliter l’acquisition de données naturalistes sur le terrain via l’application mobile QField. 
 
