@@ -4,7 +4,7 @@ QFieldNatura est un projet QGIS, conçu pour faciliter l’acquisition de donné
 
 💡 Dans la continuité du Kit Bota d’Augustin Soulard et des projets QFaune et QFlore de Félix Hinckel, __ce projet propose une solution unifiée pour la prise de données faune, flore, habitats et zones humides au sein d’un même environnement__.
 
-🔗 Téléchargez la dernière version stable de QFieldNatura : [lien de téléchargement]
+🔗 Téléchargez la dernière version stable de QFieldNatura : https://github.com/ElisaFage/QFieldNatura/archives/refs/heads/main.zip
 
 ## 🛠️ Fonctionnalités principales
 
