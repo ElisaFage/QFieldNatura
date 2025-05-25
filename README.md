@@ -2,7 +2,7 @@
 
 QFieldNatura est un projet QGIS, conçu pour faciliter l’acquisition de données naturalistes sur le terrain via l’application mobile QField. 
 
-💡 Dans la continuité du Kit Bota d’Augustin Soulard et des projets QFaune et QFlore de Félix Hinckel, __ce projet propose une solution unifiée pour la prise de données faune, flore, habitats et zones humides au sein d’un même environnement__.
+💡 Dans la continuité du Kit Bota d’Augustin Soulard et des projets QFaune, QFlore et QBiome de Félix Hinckel, __ce projet propose une ergonomie différentes pour la prise de données faune, flore, habitats et zones humides au sein d’un même environnement__.
 
 🔗 Téléchargez la dernière version stable de QFieldNatura : [QFieldNatura](https://github.com/ElisaFage/QFieldNatura/archive/refs/heads/main.zip)
 
@@ -28,11 +28,11 @@ QFieldNatura est un projet QGIS, conçu pour faciliter l’acquisition de donné
 ### ✅ Mise à jour automatique des statuts et noms d’espèces
 * Grâce au plugin AutoUpdateTAXREF, QFieldNatura intègre les dernières mises à jour du TAXREF et des stauts de l’INPN
 
-📌 Découvrir AutoUpdateTAXREF :
+📌 Découvrir AutoUpdateTAXREF : [AutoUpdateTAXREF]([https://github.com/ElisaFage/AutoUpdateTAXREF])
 
 
- 
 ## 🔍 QFieldNatura tri les espèces selon les catégories TAXREF suivantes : 
+Types de présence : P, E, S, C, I, J, M, B, D, G
 
 ### 🌿 Flore
 * GROUP1_INPN : _Algues, Bryophytes, Trachéophytes_
